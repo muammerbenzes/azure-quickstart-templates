@@ -13,5 +13,3 @@ If you provision 3 VM’s with this template, your resources will look like belo
 ![template resources](images/resources.png "template resource objects")
 
 `Tags:Managed Disks, Azure VMs, Copy Index`
-
-https://github.com/muammerbenzes/azure-quickstart-templates/blob/master/201-vm-copy-managed-disks/azuredeploy.json
