@@ -97,7 +97,7 @@
         "OfferValue": "WindowsServer",
         "SkuValue": "2016-Datacenter"
       },
-      "Server2016": {
+      "Ubuntu1604LTS": {
         "PublisherValue": "Canonical",
         "OfferValue": "UbuntuServer",
         "SkuValue": "16.04-LTS"
