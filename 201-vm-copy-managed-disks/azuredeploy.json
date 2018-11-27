@@ -191,10 +191,7 @@
         },
         "osProfile": {
           "computerName": "[concat(parameters('virtualMachineNamePrefix'),copyIndex(1))]",
-          "adminUsername": "[parameters('virtualMachineAdminUserName')]",
-          "linuxConfiguration": {
-            "provisionVMAgent": true
-          },
+          "adminUsername": "[parameters('virtualMachineAdminUserName')]"
           "secrets": [],
           "adminPassword": "[parameters('virtualMachineAdminPassword')]"
         },
